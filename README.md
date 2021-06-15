@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning REACT
 
-- 📫 Contact me at the following link
+- 📫 Contact me at the following link https://cutt.ly/Qubicks1985
 
 
 
