@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nahuelmd (qubicks1985)
+- 👋 Hi, I’m @nahuelmd 
   
 - 🥷🏻 My skills are:,PHP, MySQL, JavaScript, NODEJS, MongoDB, React.
 
