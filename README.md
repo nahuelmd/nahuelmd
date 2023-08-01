@@ -1,7 +1,7 @@
 Hello, I'm Nahuel (@nahuelmd) 👋
 Welcome to my GitHub profile. I'm a passionate developer who loves experimenting with new technologies and driving dynamic solutions.
 
-Skills 🚀
+Skills 🚀 \n
 🥷🏻 Developer: I specialize in PHP, Symfony, CodeIgniter, Magento, JavaScript, Node.js, MongoDB, and React.
 🔄 DevSecOps: Experienced in SAST, DAST, CI/CD, Cloud Native, Infrastructure as Code (IaC), K8s, Istio Service Mesh.
 🤖 Artificial Intelligence: Working with AI modelling and generation.
